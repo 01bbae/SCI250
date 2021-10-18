@@ -1,0 +1,26 @@
+<annotation>
+	<folder>flower</folder>
+	<filename>5632774792_0fa33d17eb_n.jpg</filename>
+	<path>C:\Users\01bba\code\flowermodel\Tensorflow\workspace\images\collectedimages\flower\5632774792_0fa33d17eb_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>39</ymin>
+			<xmax>201</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>
